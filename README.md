@@ -8,7 +8,7 @@ has been untouched.
 
 **Submissions get a decision within 7 days.** See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- **29 apps**, last verified **2026-08-03**
+- **29 apps**, last verified **2026-08-10**
 - **3** flagged as inactive — listed, but marked, not quietly left to rot
 - Machine-readable copy: [`data/apps.json`](data/apps.json)
 - Every entry records who contributed it and when it was last checked
