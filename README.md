@@ -8,7 +8,7 @@ has been untouched.
 
 **Submissions get a decision within 7 days.** See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- **29 apps**, last verified **2026-08-17**
+- **29 apps**, last verified **2026-08-24**
 - **3** flagged as inactive — listed, but marked, not quietly left to rot
 - Machine-readable copy: [`data/apps.json`](data/apps.json)
 - Every entry records who contributed it and when it was last checked
@@ -58,7 +58,7 @@ has been untouched.
 
 ## Libraries & Templates
 
-- [Authentication using TMA using nestJS and NextJS](https://github.com/e3ob/Telegram-Mini-App-Auth) - Template for authentication in a Telegram Mini App using NestJS.  *(no commits in 15 months)*
+- [Authentication using TMA using nestJS and NextJS](https://github.com/e3ob/Telegram-Mini-App-Auth) - Template for authentication in a Telegram Mini App using NestJS.  *(no commits in 16 months)*
 - [twa-nextjs-monorepo-starter](https://github.com/eugeneshilow/twa-nextjs-monorepo-starter) - Starter template for Telegram Mini Apps using Next.js in a pnpm monorepo.
 - [Types for Telegram Web Apps (TWA) SDK](https://github.com/fullpipe/twa-sdk-types) - Types for Telegram Web Apps (TWA) SDK. Fast updates.
 
