@@ -1,6 +1,6 @@
 # Telegram Mini Apps Catalog
 
-> A verified catalog of 29 Telegram Mini Apps. Every entry is re-checked weekly, including whether the Telegram bot still exists. Last verified 2026-08-31.
+> A verified catalog of 29 Telegram Mini Apps. Every entry is re-checked weekly, including whether the Telegram bot still exists. Last verified 2026-09-07.
 
 Entries flagged as inactive or unreachable are marked as such below rather than silently removed.
 
