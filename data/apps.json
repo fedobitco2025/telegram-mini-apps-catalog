@@ -84,6 +84,15 @@
       "status": "ok"
     },
     {
+      "name": "TAPCO GAME",
+      "url": "https://t.me/tapco_game_bot/play",
+      "description": "Telegram tap game on TON: tap the coin, level up, fight bosses, and withdraw TPC to your own wallet.",
+      "category": "Games",
+      "contributedBy": "TapcoGame",
+      "lastChecked": "2026-09-21",
+      "status": "ok"
+    },
+    {
       "name": "Authentication using TMA using nestJS and NextJS",
       "url": "https://github.com/e3ob/Telegram-Mini-App-Auth",
       "description": "Template for authentication in a Telegram Mini App using NestJS.",
